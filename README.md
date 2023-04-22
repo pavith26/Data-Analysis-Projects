@@ -1,3 +1,3 @@
-# Data cleaning project
+# Data Cleaning Project
 
-Cleaning of data on US Presidents in Excel. File shows raw data and cleaned data.
+Cleaning of data on US Presidents in Excel. First sheet contains raw data, second sheet contains cleaned data.
